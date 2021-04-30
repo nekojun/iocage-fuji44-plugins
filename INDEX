@@ -2,7 +2,7 @@
   "flexget": {
     "MANIFEST": "flexget.json",
     "name": "FlexGet",
-    "icon": "https://avatars.githubusercontent.com/u/17483320?v=4",
+    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/flexget.png",
     "description": "FlexGet is a multipurpose automation tool for all of your media Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.",
     "official": false,
     "primary_pkg": null,
@@ -11,7 +11,7 @@
   "tetris": {
     "MANIFEST": "tetris.json",
     "name": "Tetris",
-    "icon": "https://fph.altervista.org/logo.svg",
+    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/tetris.png",
     "description": "For people who enjoy swearing at their computer, Bastet (short for Bastard Tetris) is an attractive alternative to Microsoft Word.",
     "official": false,
     "primary_pkg": null,
