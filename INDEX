@@ -8,6 +8,15 @@
     "primary_pkg": null,
     "homepage": "https://flexget.com/"
   },
+  "scrapyd": {
+    "MANIFEST": "scrapyd.json",
+    "name": "Scrapyd",
+    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/scrapy.png",
+    "description": "Scrapyd is an application for deploying and running Scrapy spiders. It enables you to deploy (upload) your projects and control their spiders using a JSON API.",
+    "official": false,
+    "primary_pkg": null,
+    "homepage": "https://github.com/scrapy/scrapyd"
+  },
   "tetris": {
     "MANIFEST": "tetris.json",
     "name": "Tetris",
