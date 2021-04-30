@@ -5,7 +5,13 @@
   "properties": {
     "boot": "on"
   },
-  "pkgs": ["rust", "python39", "py39-sqlite3", "libxml2", "libxslt"],
+  "pkgs": [
+    "lang/rust",
+    "lang/python39",
+    "databases/py-sqlite3",
+    "textproc/libxml2",
+    "textproc/libxslt"
+  ],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [
