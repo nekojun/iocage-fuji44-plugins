@@ -5,7 +5,7 @@
   "properties": {
     "boot": "on"
   },
-  "pkgs": ["security/ca_root_nss", "lang/python39", "databases/py-sqlite3", "security/sudo"],
+  "pkgs": ["ca_root_nss", "python39", "py39-sqlite3"],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [
