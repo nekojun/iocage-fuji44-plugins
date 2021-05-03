@@ -2,6 +2,9 @@
 
 This is the index repository for iocage-plugin maintained by fuji44.
 
+- [Official iXsystems iocage plugins](https://github.com/freenas/iocage-ix-plugins)
+- [Official community plugins](https://github.com/ix-plugin-hub/iocage-plugin-index)
+
 ## Usage
 
 Use the `-g` option of the `iocage fetch` command to specify the URL of this repository. And for the `-P` option, specify the name of the plugin you want to install.
