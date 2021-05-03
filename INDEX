@@ -17,6 +17,15 @@
     "primary_pkg": null,
     "homepage": "https://github.com/scrapy/scrapyd"
   },
+  "mirakurun": {
+    "MANIFEST": "mirakurun.json",
+    "name": "Mirakurun",
+    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/mirakurun.png",
+    "description": "A Modern DTV Tuner Server Service for ISDB.",
+    "official": false,
+    "primary_pkg": null,
+    "homepage": "https://github.com/Chinachu/Mirakurun"
+  },
   "tetris": {
     "MANIFEST": "tetris.json",
     "name": "Tetris",
