@@ -20,6 +20,7 @@
     "bash",
     "node14",
     "npm-node14",
+    "jq",
     "pkgconf"
   ],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
