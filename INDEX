@@ -26,6 +26,15 @@
     "primary_pkg": null,
     "homepage": "https://github.com/Chinachu/Mirakurun"
   },
+  "komga": {
+    "MANIFEST": "komga.json",
+    "name": "Komga",
+    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/komga.png",
+    "description": "Free and open source comics/mangas media server.",
+    "official": false,
+    "primary_pkg": null,
+    "homepage": "https://komga.org/"
+  },
   "tetris": {
     "MANIFEST": "tetris.json",
     "name": "Tetris",
