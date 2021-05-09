@@ -3,7 +3,9 @@
   "release": "12.2-RELEASE",
   "artifact": "https://github.com/fuji44/iocage-plugin-komga.git",
   "properties": {
-    "boot": "on"
+    "boot": "on",
+    "mount_fdescfs": "yes",
+    "mount_procfs": "yes"
   },
   "pkgs": ["jq", "openjdk11-jre"],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
