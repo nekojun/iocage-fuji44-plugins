@@ -7,7 +7,7 @@
     "mount_fdescfs": "yes",
     "mount_procfs": "yes"
   },
-  "pkgs": ["jq", "openjdk11-jre"],
+  "pkgs": ["jq", "openjdk11-jre", "sqlite3"],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [
