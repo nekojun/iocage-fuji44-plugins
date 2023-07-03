@@ -1,7 +1,7 @@
 {
   "name": "mirakurun",
-  "release": "12.2-RELEASE",
-  "artifact": "https://github.com/fuji44/iocage-plugin-mirakurun.git",
+  "release": "13.1-RELEASE",
+  "artifact": "https://github.com/nekojun/iocage-plugin-mirakurun.git",
   "properties": {
     "boot": "on",
     "mount_devfs": "on",
