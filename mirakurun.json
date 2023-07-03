@@ -23,7 +23,7 @@
     "jq",
     "pkgconf"
   ],
-  "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/quarterly",
+  "packagesite": "http://pkg.FreeBSD.org/FreeBSD:13:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [
       {
