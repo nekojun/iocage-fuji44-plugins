@@ -2,7 +2,7 @@
   "mirakurun": {
     "MANIFEST": "mirakurun.json",
     "name": "Mirakurun",
-    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/mirakurun.png",
+    "icon": "https://github.com/nekojun/iocage-fuji44-plugins/blob/master/icons/mirakurun.png?raw=true",
     "description": "A Modern DTV Tuner Server Service for ISDB.",
     "official": false,
     "primary_pkg": null,
