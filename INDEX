@@ -1,22 +1,4 @@
 {
-  "flexget": {
-    "MANIFEST": "flexget.json",
-    "name": "FlexGet",
-    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/flexget.png",
-    "description": "FlexGet is a multipurpose automation tool for all of your media Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.",
-    "official": false,
-    "primary_pkg": null,
-    "homepage": "https://flexget.com/"
-  },
-  "scrapyd": {
-    "MANIFEST": "scrapyd.json",
-    "name": "Scrapyd",
-    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/scrapy.png",
-    "description": "Scrapyd is an application for deploying and running Scrapy spiders. It enables you to deploy (upload) your projects and control their spiders using a JSON API.",
-    "official": false,
-    "primary_pkg": null,
-    "homepage": "https://github.com/scrapy/scrapyd"
-  },
   "mirakurun": {
     "MANIFEST": "mirakurun.json",
     "name": "Mirakurun",
@@ -25,24 +7,5 @@
     "official": false,
     "primary_pkg": null,
     "homepage": "https://github.com/Chinachu/Mirakurun"
-  },
-  "komga": {
-    "MANIFEST": "komga.json",
-    "name": "Komga",
-    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/komga.png",
-    "description": "Free and open source comics/mangas media server.",
-    "official": false,
-    "primary_pkg": null,
-    "homepage": "https://komga.org/"
-  },
-  "tetris": {
-    "MANIFEST": "tetris.json",
-    "name": "Tetris",
-    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/tetris.png",
-    "description": "For people who enjoy swearing at their computer, Bastet (short for Bastard Tetris) is an attractive alternative to Microsoft Word.",
-    "official": false,
-    "primary_pkg": null,
-		"category": "entertainment",
-    "homepage": "https://github.com/fph/bastet"
   }
 }
